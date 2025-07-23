@@ -126,7 +126,7 @@
     <h2>Contact & Visit Us</h2>
     <p><strong>Address:</strong> Shop No. 42, Ground Floor, Moazzam Jahi Market, Hyderabad - 500001, India</p>
     <p><strong>Phone:</strong> 040 6682 2919</p>
-    <p><strong>Email:</strong> upemporium@example.com</p>
+    <p><strong>Email:</strong> info.uphehyd0@gmail.com</p>
     <iframe src="https://maps.google.com/maps?q=Moazzam%20Jahi%20Market%20Hyderabad&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
   </section><a class="whatsapp-button" href="https://wa.me/919000000000" target="_blank">📞</a>
 
