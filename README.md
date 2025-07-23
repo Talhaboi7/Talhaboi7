@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en">
+ <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -95,7 +95,7 @@
 </head>
 <body>  <header>
     <h1>The U.P Handicrafts Emporium</h1>
-    <p>An exclusive arts and crafts gallery </p>
+    <p>An exclusive arts and crafts gallery</p>
   </header>  <nav>
     <a href="#products">Products</a>
     <a href="#about">About</a>
@@ -117,17 +117,17 @@
       <div class="product">Lamps & Clocks</div>
       <div class="product">Ashoka Pillars</div>
       <div class="product">Wooden & Metal Animals</div>
-      <div class="product">Marble Pottery</div>
+      <div class="product">Marble Pottery and much more</div>
     </div>
   </section>  <section id="about" class="section about">
     <h2>About Us</h2>
     <p>The U.P Handicrafts Emporium is a family-owned store run by master artisans. With a heritage of excellence, we bring you finely crafted items from the culturally rich state of Uttar Pradesh.</p>
   </section>  <section id="contact" class="section contact">
     <h2>Contact & Visit Us</h2>
-    <p><strong>Address:</strong> https://maps.app.goo.gl/uMJPgh6k7nNeqCoz7</p>
-    <p><strong>Phone:</strong> 9395362919</p>
+    <p><strong>Address:</strong> # 5-9-665/7/8, Beside lepakshi Showroom,Gunfoundry, Hyderabad-500001.</p>
+    <p><strong>Phone:</strong> 040 6682 2919</p>
     <p><strong>Email:</strong> info.uphehyd0@gmail.com</p>
-    <iframe src="https://maps.google.com/maps?q=Moazzam%20Jahi%20Market%20Hyderabad&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
+    <iframe src="https://maps.app.goo.gl/bpvCaGVT7otGKt5h8"></iframe>
   </section><a class="whatsapp-button" href="https://wa.me/919000000000" target="_blank">📞</a>
 
   <footer>
