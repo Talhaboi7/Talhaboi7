@@ -128,7 +128,7 @@
     <p><strong>Phone:</strong> 9395362919</p>
     <p><strong>Email:</strong> info.uphehyd0@gmail.com</p>
   
-  </section><a class="whatsapp-button" href="https://wa.me/9395362919" target="_blank">📞</a>
+  </section><a class="whatsapp-button" href="https://wa.me/9395362919" target="_blank">📞 WhatsApp</a>
 
   <footer>
     <p>&copy; 2025 The U.P Handicrafts Emporium. All rights reserved.</p>
