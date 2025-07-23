@@ -33,11 +33,15 @@
       text-decoration: none;
       font-weight: bold;
     }
-    .hero {
-      padding: 40px;
-      text-align: center;
-      background: url('https://i.imgur.com/qeYd4nT.jpg') center/cover;
-      color: white;
+    
+.hero {
+  background-color: #3a2c28; /* or any matching color */
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  text-align: center;
+  color: white;
+}
     }
     .hero h2 {
       font-size: 2em;
