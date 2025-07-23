@@ -125,10 +125,10 @@
   </section>  <section id="contact" class="section contact">
     <h2>Contact & Visit Us</h2>
     <p><strong>Address:</strong> # 5-9-665/7/8, Beside lepakshi Showroom,Gunfoundry, Hyderabad-500001.</p>
-    <p><strong>Phone:</strong> 040 6682 2919</p>
+    <p><strong>Phone:</strong> 9395362919</p>
     <p><strong>Email:</strong> info.uphehyd0@gmail.com</p>
-    <iframe src="https://maps.app.goo.gl/bpvCaGVT7otGKt5h8"></iframe>
-  </section><a class="whatsapp-button" href="https://wa.me/919000000000" target="_blank">📞</a>
+  
+  </section><a class="whatsapp-button" href="https://wa.me/9395362919" target="_blank">📞</a>
 
   <footer>
     <p>&copy; 2025 The U.P Handicrafts Emporium. All rights reserved.</p>
