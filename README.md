@@ -95,7 +95,7 @@
 </head>
 <body>  <header>
     <h1>The U.P Handicrafts Emporium</h1>
-    <p>Authentic Artistry from the Heart of India</p>
+    <p>An exclusive arts and crafts gallery </p>
   </header>  <nav>
     <a href="#products">Products</a>
     <a href="#about">About</a>
@@ -124,8 +124,8 @@
     <p>The U.P Handicrafts Emporium is a family-owned store run by master artisans. With a heritage of excellence, we bring you finely crafted items from the culturally rich state of Uttar Pradesh.</p>
   </section>  <section id="contact" class="section contact">
     <h2>Contact & Visit Us</h2>
-    <p><strong>Address:</strong> Shop No. 42, Ground Floor, Moazzam Jahi Market, Hyderabad - 500001, India</p>
-    <p><strong>Phone:</strong> 040 6682 2919</p>
+    <p><strong>Address:</strong> https://maps.app.goo.gl/uMJPgh6k7nNeqCoz7</p>
+    <p><strong>Phone:</strong> 9395362919</p>
     <p><strong>Email:</strong> info.uphehyd0@gmail.com</p>
     <iframe src="https://maps.google.com/maps?q=Moazzam%20Jahi%20Market%20Hyderabad&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
   </section><a class="whatsapp-button" href="https://wa.me/919000000000" target="_blank">📞</a>
